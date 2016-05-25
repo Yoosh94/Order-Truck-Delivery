@@ -1,0 +1,5 @@
+deliveryClassification, numberOfTrucks, deliveryFee
+Single, 1, 1000
+Mulitple, 2 - 5, 4500
+Bulk, 6 - 9, 7200
+Full, 10, 7000

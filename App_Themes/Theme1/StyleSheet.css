@@ -1,0 +1,51 @@
+﻿body {
+    background-color:beige
+}
+
+#title{
+    text-align:center;
+    font-size:30px;
+}
+
+form{
+   margin-top: 2em;
+}
+/*Basic class used to hide the element*/
+.hidden{
+   visibility:hidden;
+}
+
+#map-canvas{
+        height:100%;
+        margin:0;
+        padding:0;
+        width:100%;
+        
+      }
+
+.mainDiv{
+    border: 2px solid black;
+    /*border-style:inset;*/
+    margin-left:20%;
+    margin-right:20%;
+    background-color:lightcyan
+    
+}
+
+#originInfo{
+            padding-left:20%;
+
+}
+
+#Origin{
+    border-bottom: 1px outset black;
+    border-style:outset;
+    background-color:honeydew
+}
+
+#destination{
+    background-color:lavender
+}
+#destinationInfo{
+    padding-left:20%;
+}
